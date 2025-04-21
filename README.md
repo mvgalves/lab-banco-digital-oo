@@ -16,3 +16,8 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 
 ### Polimorfismo
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
+
+# Minha Contribuição para o projeto
+
+Otimizei o código com os parametros da programação orientada a objetos, excluí a classe main que basicamente só tinha a função de exibir sempre o mesmo nome e a mesma conta bancaria no console e criei a classe main sistemaBancario.
+Através da classe sistemaBancario acrescentei a possibilidade de criar uma conta corrente ou poupança, sacar o saldo, depositar saldo e exibir o saldo e contas disponiveis pelo console através do scanner.
